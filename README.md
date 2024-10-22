@@ -1,5 +1,6 @@
-# DMI-10A-Helloworld-Flutter-210013
-PRIMERA APP FLUTTER PARTE DE LA UNIDAD 2  PARA DISPOSITIVOS MOVILES
+# Helloworld App, Mi primera aplicacion en flutter!
+PRIMERA APP FLUTTER PARTE DE LA UNIDAD 2  PARA DISPOSITIVOS MOVILES 
+parte de la unidad dos de la asignatura de Desarrollo Integral
 
 ### HISTORIAL DE PRACTICAS
 |NO.|NOMBRE|POTENCIADOR|ESTATUS|
