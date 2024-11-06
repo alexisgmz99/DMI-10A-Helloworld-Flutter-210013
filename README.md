@@ -27,15 +27,16 @@ El propósito de esta práctica es desarrollar una aplicación con un contador i
 
 
 ## Resultados
-Aqui se mostrara los resultados obtenidos al desarrollar correctamente la practica:
-Verde cuando el contador es positivo.
-<a href="https://ibb.co/BK3v0rr"><img src="https://i.ibb.co/cX3R4CC/2k.jpg" alt="2k" border="0"></a>
+Aquí se mostrarán los resultados obtenidos al desarrollar correctamente la práctica:
 
-Rojo cuando el contador es negativo.
-<a href="https://ibb.co/FqH0Cvc"><img src="https://i.ibb.co/3YRMQXV/3asd.jpg" alt="3asd" border="0"></a>
+Verde cuando el contador es positivo.  
+<a href="https://ibb.co/BK3v0rr"><img src="https://i.ibb.co/cX3R4CC/2k.jpg" alt="2k" border="0" width="200"></a>
 
-Azul cuando el contador es cero.
-<a href="https://ibb.co/KyRqLWQ"><img src="https://i.ibb.co/F7Nw0zf/1s.jpg" alt="1s" border="0"></a>
+Rojo cuando el contador es negativo.  
+<a href="https://ibb.co/FqH0Cvc"><img src="https://i.ibb.co/3YRMQXV/3asd.jpg" alt="3asd" border="0" width="200"></a>
+
+Azul cuando el contador es cero.  
+<a href="https://ibb.co/KyRqLWQ"><img src="https://i.ibb.co/F7Nw0zf/1s.jpg" alt="1s" border="0" width="200"></a>
 
 
 
