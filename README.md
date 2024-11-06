@@ -8,6 +8,35 @@ parte de la unidad dos de la asignatura de Desarrollo Integral
 |20| INSTALACION Y CONFIGUCACION DE FLUTTER|PENDIENTE|ACTIVA
 |21|HELLO WORLD APP |PENDIENTE|ACTIVA|
 
+
+### Datos del Estudiante
+- **Nombre:** Alexis Gomez
+- **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
+- **Cuatrimestre:** 10  
+- **Grupo:** A  
+
+
+## Descripción
+Esta aplicación, creada con Flutter, incluye un contador interactivo controlado mediante tres botones flotantes. El contador permite aumentar, disminuir o reiniciar su valor a cero, actualizando su estado de forma instantánea. A continuación, se describen las principales funcionalidades de la aplicación:
+
+
+
+## Objetivo
+
+El propósito de esta práctica es desarrollar una aplicación con un contador interactivo que permita incrementarse, decrementarse y reiniciarse a cero mediante botones flotantes. Además, el color del contador variará en función de su valor actual.
+
+
+## Resultados
+Aqui se mostrara los resultados obtenidos al desarrollar correctamente la practica:
+Verde cuando el contador es positivo.
+Rojo cuando el contador es negativo.
+Azul cuando el contador es cero.
+
+
+
+## CONCLUSION
+En conclusión, esta práctica proporciona una excelente oportunidad para familiarizarse con el desarrollo de interfaces interactivas en Flutter, combinando la funcionalidad de un contador dinámico con elementos visuales, como el cambio de color, que mejoran la experiencia del usuario.
+
 ### Lista de Herramientas
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![DART](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
